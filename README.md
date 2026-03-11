@@ -4,9 +4,9 @@ Donc pour ouvrir le fichier, faite "éxécuter quand même"
 
 # Comment jouer ?
 
-Téléchargez le fichier JeuDeNim.exe dans le dossier dist.
+Téléchargez la release (la même chose que l'option du dessous)
+Ou téléchargez le fichier JeuDeNim.exe dans le dossier dist.
 Ou alors téléchargez tous les fichiers en .py et vous pouvez compilez vous même
-
 
 # Description
 
