@@ -1,3 +1,7 @@
+# WARNING
+Le fichier n'est pas vérifiée sur windows (ou autre), malheureusement, je ne peut pas le faire.
+Donc pour ouvrir le fichier, faite "éxécuter quand même"
+
 # Comment jouer ?
 
 Téléchargez le fichier JeuDeNim.exe dans le dossier dist.
